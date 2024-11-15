@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Lully/static/css/main.01fee50a.css",
+    "main.js": "/Lully/static/js/main.85bf0a9a.js",
+    "static/js/453.20fc4429.chunk.js": "/Lully/static/js/453.20fc4429.chunk.js",
+    "static/media/download3.jpeg": "/Lully/static/media/download3.57a5151ebf6efe4a86a8.jpeg",
+    "static/media/download2.jpeg": "/Lully/static/media/download2.e4cf639115ff336cbc28.jpeg",
+    "static/media/download1.jpeg": "/Lully/static/media/download1.453e776711f976d6e961.jpeg",
+    "index.html": "/Lully/index.html",
+    "main.01fee50a.css.map": "/Lully/static/css/main.01fee50a.css.map",
+    "main.85bf0a9a.js.map": "/Lully/static/js/main.85bf0a9a.js.map",
+    "453.20fc4429.chunk.js.map": "/Lully/static/js/453.20fc4429.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01fee50a.css",
+    "static/js/main.85bf0a9a.js"
+  ]
+}
